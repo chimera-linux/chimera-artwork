@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "info@chimera-linux.org",
+                "Name": "Chimera Linux"
+            }
+        ],
+        "Id": "Chimera",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Chimera Linux"
+    }
+}
